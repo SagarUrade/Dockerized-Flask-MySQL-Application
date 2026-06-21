@@ -185,12 +185,6 @@ GitHub: https://github.com/SagarUrade
 
 ---
 
-## 🤝 Contributor
-
-**Shilpa Biswas**
-
-GitHub: https://github.com/shilpa01b
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
