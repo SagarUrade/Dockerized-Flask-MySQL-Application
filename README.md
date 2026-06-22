@@ -25,7 +25,18 @@ This project implements a secure and highly available cloud infrastructure follo
 ![AWS Architecture](architecture/architecture-drawio.gif)
 
 ---
+## 📷 Screenshots
 
+### Application
+![Application](screenshots/local-app.png)
+
+### Application Load Balancer
+![ALB](screenshots/ALB-url.png)
+
+### CloudWatch Monitoring
+![CloudWatch](screenshots/CloudWatch.png)
+
+---
 ## ⚡ Features
 
 ### Local Development
