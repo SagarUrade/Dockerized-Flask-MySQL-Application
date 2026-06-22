@@ -60,14 +60,12 @@ This project implements a secure and highly available cloud infrastructure follo
 ```text
 aws-dockerized-flask-mysql-2tier-app/
 ├── app/
-├── docker/
-├── aws/
-├── scripts/
-├── monitoring/
-├── screenshots/
 ├── architecture/
+├── aws/
+├── docker/
+├── screenshots/
 ├── docs/
-├── .github/workflows/
+├── scripts/
 └── README.md
 ```
 
@@ -179,6 +177,7 @@ CloudWatch + Systems Manager
 ## 👨‍💻 Author
 
 **Sagar Urade**
+
 Aspiring DevOps & Cloud Engineer
 
 GitHub: https://github.com/SagarUrade
